@@ -1,6 +1,6 @@
 { "Products": [ {
     "ProductID": 1,
-    "ProductName": "Chai",
+    "ProductName": "Yasuo",
     "SupplierID": 1,
     "CategoryID": 1,
     "QuantityPerUnit": "10 boxes x 20 bags",
@@ -11,7 +11,7 @@
     "Discontinued": false
    }, {
     "ProductID": 2,
-    "ProductName": "Chang",
+    "ProductName": "LeeSin",
     "SupplierID": 1,
     "CategoryID": 1,
     "QuantityPerUnit": "24 - 12 oz bottles",
